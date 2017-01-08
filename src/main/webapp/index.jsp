@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World from OpenShift! Mariano Márquez Gordillo</h2>
+<h2>Hello World from OpenShift!</h2>
+<p>Alumno: </p>
 </body>
 </html>
